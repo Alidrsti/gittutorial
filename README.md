@@ -362,6 +362,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [ali](https://github.com/ali-em)
 - [moraei :moon:](https://github.com/moraei)
 - [Arash](https://github.com/a-donyagard)
+- [Ali Dorosti](https://github.com/Alidrsti)💻💻💻 
 - [armanabkar](https://github.com/armanabkar) ⚡💻
 - [Erfan :sunglasses:](https://github.com/Erfan37)
 - [androsein :feelsgood:](https://github.com/androsein)
